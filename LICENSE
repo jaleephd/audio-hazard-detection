@@ -1,0 +1,65 @@
+BSD 3-Clause License
+
+Copyright (c) 2009-2018, Justin Lee
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+* Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
+
+* Neither the name of the copyright holder nor the names of its
+  contributors may be used to endorse or promote products derived from
+  this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Credits
+
+This application uses Open Source components. Links to source code are provided below.
+We acknowledge and are grateful to these developers for their contributions to open source.
+
+Speech Processing Tool
+MEKHMOUKH Abdenour
+http://www.mathworks.com.au/matlabcentral/fileexchange/18497
+
+"movingstd & movingstd2"
+John D'Errico
+http://www.mathworks.com/matlabcentral/fileexchange/9428
+
+"Re: moving standard deviation for time series"
+Roger Stafford
+http://newsgroups.derkeiler.com/Archive/Comp/comp.soft-sys.matlab/2006-05/msg00833.html
+
+code snippet to convert amplitude to dB
+http://hans.fugal.net/blog/2009/04/02/dft-magnitudepower-spectra (accessed 2009, no longer available)
+and Spectrogram by Sean Fulop, as a "modification and extension to Paul Kienzle's spectrogram program for Octave"
+https://au.mathworks.com/matlabcentral/fileexchange/1553-spectrogram--short-time-ft-log-magnitude- (2018)
+
+Other references used
+
+Autocorrelation
+NUMERICAL RECIPES IN C: THE ART OF SCIENTIFIC COMPUTING, pp 545-546
+http://hebb.mit.edu/courses/9.29/2002/readings/c13-2.pdf
+
+Subband Spectral Entropy
+Ken Prager, February 11, 2009
+http://www.dsprelated.com/showmessage/108326/1.php
+
+"How do I properly credit an original code's developer for her open source contribution?"
+Gil Yehuda
+https://www.quora.com/How-do-I-properly-credit-an-original-codes-developer-for-her-open-source-contribution
