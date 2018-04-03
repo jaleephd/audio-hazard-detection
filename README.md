@@ -8,7 +8,7 @@ statistical signal processing tools to identify signal features. The audio featu
 are adaptively thresholded for relevance and classified with a three-component heuristic.
 The resulting acoustic hazard detection system has a very low false-positive detection rate.
 
-This code was used in the following publication:
+This code was used to produce the experimental results published in the following:
 
 "Acoustic hazard detection for pedestrians with obscured hearing"
 Justin A. Lee & Andry Rakotonirainy (2011),
